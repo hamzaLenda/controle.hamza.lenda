@@ -5,7 +5,8 @@
 Activité Pratique N°3 : Spring MVC avec Thymeleaf
 
 
-![1](https://user-images.githubusercontent.com/80393682/232028362-2405206e-27a0-49d6-918a-b5a97a14693a.PNG)
+![1](https://user-images.githubusercontent.com/128711913/234883801-03be0172-2457-4b97-95f7-4ff791c69328.png)
+
 
 ![121](https://user-images.githubusercontent.com/80393682/232171814-be592b21-9216-47b5-a4bd-cea5a483e4d2.PNG)
 
